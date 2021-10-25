@@ -9,5 +9,6 @@ local wl = {
 1157747159,--sex?
 404495,--esex
 236662452,--huntr
+2830056317,--another laagginq alt
 }
 return wl
