@@ -8,5 +8,6 @@ local wl = {
 1921081992,--Boob pics plz?
 1157747159,--sex?
 404495,--esex
+236662452,--huntr
 }
 return wl
