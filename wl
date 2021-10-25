@@ -6,5 +6,6 @@ local wl = {
 474478606,--yurrrr
 1058420589,--i want boob pics
 1921081992,--Boob pics plz?
+1157747159,--sex?
 }
 return wl
