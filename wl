@@ -10,5 +10,6 @@ local wl = {
 404495,--esex
 236662452,--huntr
 2830056317,--another laagginq alt
+73254325,--u kinda sexy, no homo tho
 }
 return wl
