@@ -11,5 +11,7 @@ local wl = {
 236662452,--huntr
 2830056317,--another laagginq alt
 73254325,--u kinda sexy, no homo tho
+65286,--846608850743459860 booster
+
 }
 return wl
