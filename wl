@@ -14,6 +14,6 @@ local wl = {
 65286,--846608850743459860 booster
 135700969,--hi?
 1539059425,--nvn
-
+101969575,--giveaway winner
 }
 return wl
