@@ -3,7 +3,6 @@ local wl = {
 2230548582,
 1174705155,--yh
 2736031273,--what?
-474478606,--yurrrr
 1058420589,--i want boob pics
 1921081992,--Boob pics plz?
 1157747159,--sex?
@@ -15,5 +14,7 @@ local wl = {
 135700969,--hi?
 1539059425,--nvn
 101969575,--giveaway winner
+861974819,--nitro buyer
+
 }
 return wl
