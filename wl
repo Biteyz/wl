@@ -13,6 +13,7 @@ local wl = {
 73254325,--u kinda sexy, no homo tho
 65286,--846608850743459860 booster
 135700969,--hi?
+1539059425,--nvn
 
 }
 return wl
